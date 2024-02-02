@@ -7,6 +7,5 @@ The following was used
 - CSS
 - JavaScript
 
-- ### Author
 Chad Smith
 schadm6565@gmail.com
