@@ -4,7 +4,7 @@
 
 This project simulates a drone on a grid surface. Users can control the drone using commands such as PLACE, MOVE, LEFT, RIGHT, ATTACK, and REPORT.
 
-## Technologies Used
+## Scripts Used
 
 - HTML
 - CSS
