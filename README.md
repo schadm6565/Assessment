@@ -25,6 +25,8 @@ Feel free to experiment with different commands and explore the drone's capabili
 
 ---
 
+URL to the Drone Simulation: https://codepen.io/schadm6565/full/yLwKodb
+
 ### Author
 
 Chad Smith
